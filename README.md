@@ -10,5 +10,5 @@ HABILIDADES
 * Machine learning: NLP
 
 CONTACTO
-* [gmail] (https://mail.google.com/mail/?view=cm&fs=1&to=markosotola@gmail.com)
-* [linkedin] (https://www.linkedin.com/in/marko-sotola-15640b212/)
+* [gmail](https://mail.google.com/mail/?view=cm&fs=1&to=markosotola@gmail.com)
+* [linkedin](https://www.linkedin.com/in/marko-sotola-15640b212/)
