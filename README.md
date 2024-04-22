@@ -8,3 +8,7 @@ HABILIDADES
 * Big Data: Hadoop, Spark
 * Data Visualization: Power BI, Matplotlib, Seaborn
 * Machine learning: NLP
+
+CONTACTO
+* [gmail] (https://mail.google.com/mail/?view=cm&fs=1&to=markosotola@gmail.com)
+* [linkedin] (https://www.linkedin.com/in/marko-sotola-15640b212/)
