@@ -7,7 +7,8 @@ HABILIDADES
 * SQL: MySQL, SQL Server
 * Big Data: Hadoop, Spark
 * Data Visualization: Power BI, Matplotlib, Seaborn
-* Machine learning: NLP
+* Machine learning: NLP, Linear Regression, KNN
+* Clound: Azure, Google Clound
 
 CONTACTO
 * [gmail](https://mail.google.com/mail/?view=cm&fs=1&to=markosotola@gmail.com)
